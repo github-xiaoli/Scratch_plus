@@ -1,3 +1,0 @@
-STOOLSCMD 要运行的cmd命令
-例
-STOOLSCMD explorer.exe
