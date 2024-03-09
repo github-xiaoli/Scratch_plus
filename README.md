@@ -6,6 +6,7 @@ How to run: Directly run the main program STOOLSCMD v2.exe and open the sample S
 
 运行方法：直接运行主程序STOOLSCMD v2.exe并打开示例SB3作品即可。你给这个程序什么权限Scratch就拥有什么权限。
 
+Remember to open SB3 files with TurboWarp（记得使用TurboWarp打开SB3文件）
 
 This update fixes the following issues:
 1. The CPU utilization of the old version of the plug-in runtime will increase from 10% to 40%, and the version 2.0 fixes the problem of high CPU utilization during runtime
